@@ -65,3 +65,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 </ul>
 
 <!-- description:end -->
+
+## Final Result
+![Final Result](https://github.com/04092000f/data_structures_with_python_coding_questions/blob/main/Remove_Element/Final_Score.png)
