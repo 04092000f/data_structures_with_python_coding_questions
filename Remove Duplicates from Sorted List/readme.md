@@ -31,3 +31,6 @@
 </ul>
 
 <!-- description:end -->
+
+## Final Result
+![Final Result](https://github.com/04092000f/data_structures_with_python_coding_questions/blob/main/Remove%20Duplicates%20from%20Sorted%20List/Final_Result.png)
