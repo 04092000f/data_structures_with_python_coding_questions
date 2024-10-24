@@ -23,3 +23,10 @@ To get started with this repository, clone it to your local machine using the fo
 
 ```bash
 git clone https://github.com/04092000f/data_structures_with_python_coding_questions.git
+```
+
+## Usage
+Each coding question is implemented in its own file. You can run the solutions using Python. For example, to run a specific solution, use:
+```bash
+python3 "Integer to Roman Numerals/integer_to_roman.py" # For running Integer to roman numerals program as an example program to run
+```
