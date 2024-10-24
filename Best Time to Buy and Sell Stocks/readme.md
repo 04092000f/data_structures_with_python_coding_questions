@@ -39,4 +39,4 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 <!-- description:end -->
 
 ## Final Result
-![Final Result](https://github.com/04092000f/data_structures_with_python_coding_questions/edit/main/Best%20Time%20to%20Buy%20and%20Sell%20Stocks/Final_Result.png)
+![Final Result](https://github.com/04092000f/data_structures_with_python_coding_questions/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stocks/Final_Result.png)
